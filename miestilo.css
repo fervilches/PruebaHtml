@@ -26,13 +26,20 @@
 #footer{
 	padding: 0 3% 0 3%;}
 
-#servicios{
+.centrado{
 	text-align: center;
+	
+}
+
+.servicios{
+	padding: 0 4% 0 4%;
+	margin-top: 5%;
 }
 
 .glyphicon{
-	font-size: 4em;
+	font-size: 3em;
 	color: #1E90FF;
+	margin: 5% 0 5% 0;
 
 }
 
