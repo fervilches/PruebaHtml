@@ -1,13 +1,12 @@
+#logo{
+	width: 50%;
+	padding: auto;
+	margin-top: 3%;
+}
+
+
 .navbar {
-	background-color: #01DF74;
+	height: 65px;
+	border-radius: 0px;
+	margin-bottom: 65px;
 }
-
-.navbar .navbar-brand {
-	color: white;
-}
-.navbar-default .navbar-nav>li>a {
-	color: white;
-}
-
-.navbar-default .navbar-nav>.active{
-	color: #CEF6D8}
