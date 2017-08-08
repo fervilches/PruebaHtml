@@ -19,12 +19,14 @@
 }
 
 #imgbanner{
-	width: 150%;
+	width: 105%;
 
 }
 
 #footer{
-	padding: 0 3% 0 3%;}
+	padding: 3% 3% 3% 3%;
+	background-color: lightgray;
+}
 
 .centrado{
 	text-align: center;
@@ -41,6 +43,15 @@
 	color: #1E90FF;
 	margin: 5% 0 5% 0;
 
+}
+
+#manoazul{
+	float: right;
+}
+
+.donaciones {
+	text-align: center;
+	padding-left: 20%
 }
 
 
