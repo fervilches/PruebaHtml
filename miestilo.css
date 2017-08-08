@@ -1,12 +1,41 @@
 #logo{
-	width: 50%;
-	padding: auto;
-	margin-top: 3%;
+	
+	max-width: 151px;
+	max-height: 51px;
+	display: inline;
 }
 
 
 .navbar {
-	height: 65px;
-	border-radius: 0px;
-	margin-bottom: 65px;
+	border-radius: 0px;	
+}
+
+#banner{
+	padding: 10% 0 8% 0;
+	text-align: center;
+	margin-bottom: 0;
+	box-sizing: border-box;
+	background-color:  #e6e6ff;
+}
+
+#imgbanner{
+	width: 150%;
+
+}
+
+#footer{
+	padding: 0 3% 0 3%;}
+
+#servicios{
+	text-align: center;
+}
+
+.glyphicon{
+	font-size: 4em;
+	color: #1E90FF;
+
+}
+
+
+
 }
