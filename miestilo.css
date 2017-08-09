@@ -15,7 +15,8 @@
 	text-align: center;
 	margin-bottom: 0;
 	box-sizing: border-box;
-	background-color:  #e6e6ff;
+	background-color: #f4fff5;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 #imgbanner{
@@ -25,7 +26,8 @@
 
 #footer{
 	padding: 3% 3% 3% 3%;
-	background-color: lightgray;
+	background-color: #efefef;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .centrado{
@@ -35,23 +37,32 @@
 
 .servicios{
 	padding: 0 4% 0 4%;
-	margin-top: 5%;
+	margin:	5% 0 5% 0;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .glyphicon{
 	font-size: 3em;
-	color: #1E90FF;
+	color: #009b4b;
 	margin: 5% 0 5% 0;
 
 }
 
-#manoazul{
-	float: right;
+
+#donaciones{
+	background: url(./imagenes/background.png) repeat center;
+	background-size: cover;
+	height: 250px;
+	text-align: center;
+	text-shadow: 2px 2px white;
+	color: black;
+	padding: 5% 0 5% 0;
+	font-family: 'Ubuntu', sans-serif;
 }
 
-.donaciones {
-	text-align: center;
-	padding-left: 20%
+#noticias h2{
+	padding-left: 2%;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 
