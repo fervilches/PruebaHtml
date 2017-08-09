@@ -1,3 +1,7 @@
+body{
+	font-family: 'Ubuntu', sans-serif;
+}
+
 #logo{
 	
 	max-width: 151px;
@@ -65,6 +69,17 @@
 	font-family: 'Ubuntu', sans-serif;
 }
 
+#quiénessomos{
+	margin: 3% 0 3% 0;
+}
 
+#misión{
+	text-align: center;
+	padding: 10% 0 10% 0;
+}
+
+#objetivos{
+	margin: 3% 0 3% 3%;
+}
 
 }
