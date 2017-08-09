@@ -60,7 +60,7 @@ body{
 	text-align: center;
 	text-shadow: 2px 2px white;
 	color: black;
-	padding: 5% 0 5% 0;
+	padding: 2% 0 2% 0;
 	font-family: 'Ubuntu', sans-serif;
 }
 
@@ -84,18 +84,4 @@ body{
 
 #noticias{
 	margin: 3% 0 1% 3%;
-}
-
-#donaciones2{
-	display: table-cell;
-	background: url(./images/background.png) repeat center;
-	background-size: cover;
-	height: 250px;
-	text-align: center;
-	text-shadow: 2px 2px white;
-	color: black;
-	padding: 5% 1% 5% 1%;
-	font-family: 'Ubuntu', sans-serif;
-	margin: 0 2% 0 3%;
-
 }
