@@ -54,7 +54,7 @@ body{
 
 
 #donaciones{
-	background: url(./imagenes/background.png) repeat center;
+	background: url(./images/background.png) repeat center;
 	background-size: cover;
 	height: 250px;
 	text-align: center;
@@ -88,7 +88,7 @@ body{
 
 #donaciones2{
 	display: table-cell;
-	background: url(./imagenes/background.png) repeat center;
+	background: url(./images/background.png) repeat center;
 	background-size: cover;
 	height: 250px;
 	text-align: center;
